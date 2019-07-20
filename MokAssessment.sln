@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MokAssessment", "MokAssessment\MokAssessment.csproj", "{71A9B8DB-4087-4862-9C5A-058F0A0D001B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71A9B8DB-4087-4862-9C5A-058F0A0D001B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A9B8DB-4087-4862-9C5A-058F0A0D001B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71A9B8DB-4087-4862-9C5A-058F0A0D001B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A9B8DB-4087-4862-9C5A-058F0A0D001B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42D15D67-160F-4B0B-B398-29F7676A3AD4}
+	EndGlobalSection
+EndGlobal

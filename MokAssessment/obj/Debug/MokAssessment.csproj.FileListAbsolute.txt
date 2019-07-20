@@ -1,0 +1,7 @@
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\MokAssessment\MokAssessment\bin\Debug\MokAssessment.exe.config
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\MokAssessment\MokAssessment\bin\Debug\MokAssessment.exe
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\MokAssessment\MokAssessment\bin\Debug\MokAssessment.pdb
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\MokAssessment\MokAssessment\obj\Debug\MokAssessment.csprojAssemblyReference.cache
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\MokAssessment\MokAssessment\obj\Debug\MokAssessment.csproj.CoreCompileInputs.cache
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\MokAssessment\MokAssessment\obj\Debug\MokAssessment.exe
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\MokAssessment\MokAssessment\obj\Debug\MokAssessment.pdb
